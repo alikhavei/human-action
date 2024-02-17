@@ -1,0 +1,2 @@
+1-first folder is the main project and the first file inside folder 'project1' is the training the net and saved the trained data.
+2-'project3' is the simple gui app for using the trained data
